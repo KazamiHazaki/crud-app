@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">crud-app</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="proses">Proses</string>
+    <string name="enter_user_name">Enter Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="confirm_your_password">Confirm Your Password</string>
+    <string name="register">Register</string>
+    <string name="already_a_user_login_here">Already a User ? Login Here</string>
+    <string name="enter_your_password1">Enter Your Password</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_here">New User ? Register Here</string>
+    <string name="enter_course_name">Enter Course Name</string>
+    <string name="enter_course_price">Enter Course Price</string>
+    <string name="enter_course_suited_for">Enter Course Suited For</string>
+    <string name="enter_course_image_link">Enter Course Image Link</string>
+    <string name="enter_course_link">Enter Course Link</string>
+    <string name="enter_course_description">Enter Course Description</string>
+    <string name="add_your_course">Add Your Course</string>
+    <string name="price">Price</string>
+    <string name="course_name">Course Name</string>
+    <string name="suited_for">Suited for</string>
+    <string name="description">Description</string>
+    <string name="edit_course">Edit Course</string>
+    <string name="view_details">View Details</string>
+    <string name="delete_your_n_course">Delete Your \n Course</string>
+    <string name="update_your_n_course">Update Your \n Course</string>
+</resources>
